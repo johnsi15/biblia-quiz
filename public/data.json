@@ -1,0 +1,187 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál fue el primer milagro de Jesús?",
+    "answers": ["Curó a un ciego", "Caminó sobre el agua", "Convirtió el agua en vino", "Resucitó a Lázaro"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "¿Quién construyó el arca?",
+    "answers": ["Abraham", "Moisés", "Noé", "David"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "¿Dónde nació Jesús?",
+    "answers": ["Nazaret", "Jerusalén", "Belén", "Egipto"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "¿Quién fue tragado por un gran pez?",
+    "answers": ["Jonás", "Elías", "Moisés", "Pablo"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "¿Cómo se llamaba el gigante que David derrotó?",
+    "answers": ["Goliat", "Sansón", "Hércules", "Saúl"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "¿Qué libro de la Biblia cuenta la creación del mundo?",
+    "answers": ["Éxodo", "Levítico", "Génesis", "Números"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "¿Quién fue lanzado a un foso de leones?",
+    "answers": ["Daniel", "José", "David", "Ezequiel"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "¿Cuál es el primer mandamiento?",
+    "answers": [
+      "No robarás",
+      "No tendrás dioses ajenos delante de mí",
+      "No matarás",
+      "Honrarás a tu padre y a tu madre"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "¿Quién fue el primero en ver a Jesús resucitado?",
+    "answers": ["Pedro", "Juan", "María Magdalena", "Tomás"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "¿Qué profeta fue llevado al cielo en un torbellino?",
+    "answers": ["Elías", "Isaías", "Jeremías", "Ezequiel"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "¿Quién escribió la mayor parte de los Salmos?",
+    "answers": ["Moisés", "David", "Salomón", "Isaías"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "¿Cuál es el último libro de la Biblia?",
+    "answers": ["Judas", "Apocalipsis", "Hebreos", "Santiago"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "¿Quién fue vendido como esclavo por sus hermanos?",
+    "answers": ["Isaac", "Jacob", "José", "Esaú"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "¿Quién recibió los Diez Mandamientos?",
+    "answers": ["Abraham", "Isaac", "Jacob", "Moisés"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 15,
+    "question": "¿Quién fue el primer rey de Israel?",
+    "answers": ["David", "Salomón", "Saúl", "Samuel"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "question": "¿Quién construyó el templo en Jerusalén?",
+    "answers": ["David", "Salomón", "Saúl", "Moisés"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "¿Qué instrumento tocaba David?",
+    "answers": ["Arpa", "Flauta", "Lira", "Trompeta"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "¿Quién interpretó los sueños del faraón en Egipto?",
+    "answers": ["Daniel", "José", "Jacob", "Moisés"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "¿Cuál fue el nombre original de Pablo?",
+    "answers": ["Simón", "Saulo", "Pedro", "Juan"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "¿Quién fue llamado 'el amigo de Dios'?",
+    "answers": ["Abraham", "David", "Moisés", "Isaías"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "¿Quiénes fueron arrojados al horno de fuego?",
+    "answers": ["Sadrach, Mesac y Abed-nego", "Pedro, Juan y Santiago", "Pablo y Silas", "José y Benjamín"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "¿Qué libro de la Biblia cuenta la historia de la salida de Egipto?",
+    "answers": ["Génesis", "Éxodo", "Levítico", "Deuteronomio"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "¿Quién fue conocido por su gran sabiduría?",
+    "answers": ["David", "Salomón", "Josué", "Isaías"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "¿Quién negó a Jesús tres veces?",
+    "answers": ["Pedro", "Juan", "Tomás", "Judas"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "¿Cuál es el primer libro del Nuevo Testamento?",
+    "answers": ["Marcos", "Mateo", "Lucas", "Juan"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 26,
+    "question": "¿Quién fue el gobernador romano que juzgó a Jesús?",
+    "answers": ["Herodes", "Pilato", "César", "Nerón"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "¿Qué alimento cayó del cielo para los israelitas en el desierto?",
+    "answers": ["Pan", "Maná", "Codornices", "Pescado"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "question": "¿Quién fue el hermano menor de Moisés?",
+    "answers": ["Aarón", "José", "Isaac", "Jacob"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "¿Qué profeta fue tragado por un gran pez?",
+    "answers": ["Jonás", "Elías", "Moisés", "Pablo"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "¿Quién fue el padre de los 12 hijos que formaron las tribus de Israel?",
+    "answers": ["Isaac", "Abraham", "Jacob", "José"],
+    "correctAnswer": 2
+  }
+]
