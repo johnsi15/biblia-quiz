@@ -24,15 +24,16 @@ export function Question({ data }: { data: QuestionType }) {
 
   return (
     <div>
-      <h2 className='text-xl text-white mb-3'>{data.question}</h2>
+      <h2 className='text-2xl text-white mb-7'>{data.question}</h2>
 
-      <ul className='flex gap-3'>
+      <ul className='flex justify-center gap-5'>
         {data.answers.map((answer, index) => (
           <li key={index}>
             <button
               disabled={data.userSelectedAnswer != null}
               onClick={handleAnswerClick(index)}
-              className='text-white border border-blue-400 rounded-md px-5 py-3'
+              style={{ backgroundColor: getBackgroundColor(data, index) }}
+              className='text-white border border-blue-400 rounded-md px-5 py-3 hover:bg-blue-700 transition-colors disabled:bg-transparent disabled:cursor-not-allowed'
             >
               <span>{answer}</span>
             </button>
