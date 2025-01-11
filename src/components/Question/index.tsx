@@ -5,9 +5,9 @@ import { type Question as QuestionType } from '@/types'
 const getBackgroundColor = (data: QuestionType, index: number) => {
   const { userSelectedAnswer, correctAnswer } = data
 
-  if (userSelectedAnswer == null) return 'transparent'
+  if (userSelectedAnswer == null) return ''
 
-  if (index !== correctAnswer && index !== userSelectedAnswer) return 'transparent'
+  if (index !== correctAnswer && index !== userSelectedAnswer) return ''
 
   if (index === correctAnswer) return '#06D6A0'
   if (index === userSelectedAnswer) return '#EF476F'
@@ -15,11 +15,15 @@ const getBackgroundColor = (data: QuestionType, index: number) => {
 
 export function Question({ data }: { data: QuestionType }) {
   const selectAnswer = useQuestionsStore(state => state.selectAnswer)
+  const goNextQuestion = useQuestionsStore(state => state.goNextQuestion)
 
   const handleAnswerClick = (answerIndex: number) => () => {
     selectAnswer(data.id, answerIndex)
 
-    if (data.correctAnswer === answerIndex) confetti()
+    if (data.correctAnswer === answerIndex) {
+      confetti()
+      goNextQuestion()
+    }
   }
 
   return (
@@ -33,7 +37,7 @@ export function Question({ data }: { data: QuestionType }) {
               disabled={data.userSelectedAnswer != null}
               onClick={handleAnswerClick(index)}
               style={{ backgroundColor: getBackgroundColor(data, index) }}
-              className='text-white border border-blue-400 rounded-md px-5 py-3 hover:bg-blue-700 transition-colors disabled:bg-transparent disabled:cursor-not-allowed'
+              className='text-white border border-blue-400 rounded-md px-5 py-3 hover:bg-blue-500 transition-colors disabled:bg-transparent disabled:cursor-not-allowed'
             >
               <span>{answer}</span>
             </button>
