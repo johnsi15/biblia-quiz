@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "game": 2,
+    "question": "Soy el líder de los israelitas que les guió a través del mar rojo. ¿Quién soy?",
+    "answers": ["Moisés"],
+    "correctAnswer": 0,
+    "passage": "Éxodo 14:21-22",
+    "citation": "Éxodo 14:21-22: \"Entonces Moisés extendió su mano sobre el mar, e hizo Jehová que el mar se apartase por un fuerte viento oriental, que sopló toda aquella noche...\"",
+    "hint": "Soy conocido por recibir los 10 mandamientos en el monte Sinaí."
+  },
+  {
+    "id": 2,
+    "game": 2,
+    "question": "Soy el discípulo que negó a Jesús tres veces antes de que cantara el gallo. ¿Quién soy?",
+    "answers": ["Pedro"],
+    "correctAnswer": 0,
+    "passage": "Mateo 26:74",
+    "citation": "Mateo 26:74: \"Y él comenzó a maldecir y a jurar: No conozco a ese hombre. Y al instante cantó el gallo.\"",
+    "hint": "Soy conocido por ser uno de los tres discípulos más cercanos a Jesús."
+  },
+  {
+    "id": 3,
+    "game": 2,
+    "question": "Fui el rey de Israel que pidió sabiduría a Dios. ¿Quién soy?",
+    "answers": ["Salomón"],
+    "correctAnswer": 0,
+    "passage": "1 Reyes 3:5-9",
+    "citation": "1 Reyes 3:5-9: \"En Gabaón apareció Jehová a Salomón en sueño de noche... y le dijo: Pide lo que quieras que yo te dé.\"",
+    "hint": "Soy conocido por construir el primer templo en Jerusalén."
+  },
+  {
+    "id": 4,
+    "game": 2,
+    "question": "Soy el profeta que fue tragado por un gran pez. ¿Quién soy?",
+    "answers": ["Jonás"],
+    "correctAnswer": 0,
+    "passage": "Jonás 1:17",
+    "citation": "Jonás 1:17: \"Pero Jehová tenía preparado un gran pez que tragase a Jonás; y estuvo Jonás en el vientre del pez tres días y tres noches.\"",
+    "hint": "Fui enviado a predicar en la ciudad de Nínive."
+  },
+  {
+    "id": 5,
+    "game": 2,
+    "question": "Soy la madre de Samuel, quien oró a Dios por un hijo. ¿Quién soy?",
+    "answers": ["Ana"],
+    "correctAnswer": 0,
+    "passage": "1 Samuel 1:10-11",
+    "citation": "1 Samuel 1:10-11: \"Y ella, amargada de alma, oró a Jehová, y lloró abundantemente; e hizo voto, diciendo: Jehová de los ejércitos...\"",
+    "hint": "Fui la madre de un gran profeta y juez de Israel."
+  },
+  {
+    "id": 6,
+    "game": 2,
+    "question": "Soy el discípulo que dudó de la resurrección de Jesús hasta ver sus heridas. ¿Quién soy?",
+    "answers": ["Tomás"],
+    "correctAnswer": 0,
+    "passage": "Juan 20:27",
+    "citation": "Juan 20:27: \"Luego dijo a Tomás: Pon aquí tu dedo, y mira mis manos; y acerca tu mano, y métela en mi costado...\"",
+    "hint": "Me llamaron 'el incrédulo' por mi duda."
+  },
+  {
+    "id": 7,
+    "game": 2,
+    "question": "Soy el rey que desobedeció a Dios y fue rechazado como rey de Israel. ¿Quién soy?",
+    "answers": ["Saúl"],
+    "correctAnswer": 0,
+    "passage": "1 Samuel 15:26",
+    "citation": "1 Samuel 15:26: \"Entonces Samuel dijo a Saúl: No te he de volver a ver; porque tú has desechado la palabra de Jehová, y Jehová te ha desechado a ti para que no seas rey sobre Israel.\"",
+    "hint": "Fui el primer rey de Israel, pero mi desobediencia me costó el reino."
+  },
+  {
+    "id": 8,
+    "game": 2,
+    "question": "Soy el profeta que desafió a los 450 profetas de Baal en el monte Carmelo. ¿Quién soy?",
+    "answers": ["Elías"],
+    "correctAnswer": 0,
+    "passage": "1 Reyes 18:36-38",
+    "citation": "1 Reyes 18:36-38: \"Y sucedió que cuando llegó la hora de ofrecer el holocausto, el profeta Elías se acercó y dijo: Jehová, Dios de Abraham, de Isaac y de Israel...\"",
+    "hint": "Desafíe a los profetas de Baal a ver quién podía hacer descender fuego del cielo."
+  },
+  {
+    "id": 9,
+    "game": 2,
+    "question": "Soy la reina que salvó a los judíos en Persia con la ayuda de Dios. ¿Quién soy?",
+    "answers": ["Esther"],
+    "correctAnswer": 0,
+    "passage": "Esther 4:14",
+    "citation": "Esther 4:14: \"Porque si callas completamente en este tiempo, respiro y liberación vendrán de otra parte para los judíos...\"",
+    "hint": "Fui reina y arriesgué mi vida para salvar a mi pueblo."
+  },
+  {
+    "id": 10,
+    "game": 2,
+    "question": "Soy el apóstol conocido como el 'hermano del Señor'. ¿Quién soy?",
+    "answers": ["Santiago"],
+    "correctAnswer": 0,
+    "passage": "Gálatas 1:19",
+    "citation": "Gálatas 1:19: \"Pero no vi a ningún otro de los apóstoles, sino a Jacobo el hermano del Señor.\"",
+    "hint": "Fui uno de los líderes de la iglesia en Jerusalén."
+  },
+  {
+    "id": 11,
+    "game": 2,
+    "question": "Fui un hombre conforme al corazón de Dios, conocido por matar a Goliat. ¿Quién soy?",
+    "answers": ["David"],
+    "correctAnswer": 0,
+    "passage": "1 Samuel 17:50",
+    "citation": "1 Samuel 17:50: \"Así venció David a los filisteos con una honda y una piedra, e hirió al filisteo y lo mató; no había espada en la mano de David.\"",
+    "hint": "Soy conocido por ser un gran rey de Israel y por ser el autor de muchos salmos."
+  },
+  {
+    "id": 12,
+    "game": 2,
+    "question": "Soy la mujer que ayudó a los espías israelitas en Jericó. ¿Quién soy?",
+    "answers": ["Rahab"],
+    "correctAnswer": 0,
+    "passage": "Josué 2:1",
+    "citation": "Josué 2:1: \"Y Josué hijo de Nun envió desde Sitim a dos hombres a reconocer secretamente la tierra...\"",
+    "hint": "Viví en las murallas de la ciudad de Jericó."
+  },
+  {
+    "id": 13,
+    "game": 2,
+    "question": "Soy el profeta que desafió al rey Acab y a su esposa Jezabel. ¿Quién soy?",
+    "answers": ["Elías"],
+    "correctAnswer": 0,
+    "passage": "1 Reyes 18:17-18",
+    "citation": "1 Reyes 18:17-18: \"Cuando Acab vio a Elías, Acab le dijo: ¿Eres tú el que trastorna a Israel? Y él respondió: No he trastornado a Israel, sino tú y la casa de tu padre.\"",
+    "hint": "Desafíe al rey y la reina para probar quién servía al verdadero Dios."
+  },
+  {
+    "id": 14,
+    "game": 2,
+    "question": "Fui un hombre que tuvo una visión de un carro de fuego llevándome al cielo. ¿Quién soy?",
+    "answers": ["Elías"],
+    "correctAnswer": 0,
+    "passage": "2 Reyes 2:11",
+    "citation": "2 Reyes 2:11: \"Y aconteció que yendo ellos, hablando, he aquí un carro de fuego con caballos de fuego apartó a los dos...\"",
+    "hint": "Fui llevado al cielo en un carro de fuego."
+  },
+  {
+    "id": 15,
+    "game": 2,
+    "question": "Soy el discípulo conocido por escribir el libro del Apocalipsis. ¿Quién soy?",
+    "answers": ["Juan"],
+    "correctAnswer": 0,
+    "passage": "Apocalipsis 1:9",
+    "citation": "Apocalipsis 1:9: \"Yo Juan, vuestro hermano y compañero en la tribulación...\"",
+    "hint": "Escribí el último libro del Nuevo Testamento."
+  },
+  {
+    "id": 16,
+    "game": 2,
+    "question": "Soy el hijo de Isaac que fue sacrificado en el monte Moriah. ¿Quién soy?",
+    "answers": ["Jacob"],
+    "correctAnswer": 0,
+    "passage": "Génesis 22:2",
+    "citation": "Génesis 22:2: \"Y dijo: Toma ahora a tu hijo, tu único hijo Isaac, a quien amas, y ve a la tierra de Moriah...\"",
+    "hint": "Soy hijo de Abraham y madre de Israel."
+  },
+  {
+    "id": 17,
+    "game": 2,
+    "question": "Soy el rey de Israel que se arrepintió y escribió el Salmo 51. ¿Quién soy?",
+    "answers": ["David"],
+    "correctAnswer": 0,
+    "passage": "Salmo 51:1-4",
+    "citation": "Salmo 51:1-4: \"Ten misericordia de mí, oh Dios, conforme a tu bondad; conforme a la multitud de tus piedades borra mis transgresiones...\"",
+    "hint": "Fui el rey que cometió adulterio con Betsabé y luego se arrepintió."
+  },
+  {
+    "id": 18,
+    "game": 2,
+    "question": "Soy el discípulo conocido como el 'amado'. ¿Quién soy?",
+    "answers": ["Juan"],
+    "correctAnswer": 0,
+    "passage": "Juan 13:23",
+    "citation": "Juan 13:23: \"Y uno de sus discípulos, al cual Jesús amaba, estaba recostado al lado de Jesús.\"",
+    "hint": "Escribí el Evangelio de Juan, tres epístolas y el Apocalipsis."
+  },
+  {
+    "id": 19,
+    "game": 2,
+    "question": "Soy el profeta que fue llevado al cielo en un torbellino sin ver muerte. ¿Quién soy?",
+    "answers": ["Elías"],
+    "correctAnswer": 0,
+    "passage": "2 Reyes 2:11",
+    "citation": "2 Reyes 2:11: \"Y aconteció que yendo ellos, hablando, he aquí un carro de fuego con caballos de fuego apartó a los dos...\"",
+    "hint": "Fui llevado al cielo sin morir, en un carro de fuego."
+  },
+  {
+    "id": 20,
+    "game": 2,
+    "question": "Soy el hombre que vio una visión de una rueda en el cielo. ¿Quién soy?",
+    "answers": ["Ezequiel"],
+    "correctAnswer": 0,
+    "passage": "Ezequiel 1:16",
+    "citation": "Ezequiel 1:16: \"La apariencia de las ruedas y su obra era como el color del berilo...\"",
+    "hint": "Soy conocido por mis visiones proféticas y mi libro lleva mi nombre."
+  }
+]

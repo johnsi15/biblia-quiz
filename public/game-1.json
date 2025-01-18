@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "game": 1,
+    "question": "¿Cuál es el primer libro del Antiguo Testamento?",
+    "answers": ["Génesis", "Levítico", "Éxodo"],
+    "correctAnswer": 0,
+    "passage": "Génesis 1:1",
+    "citation": "Génesis 1:1: \"En el principio creó Dios los cielos y la tierra.\"",
+    "hint": "Es el libro que habla de la creación del mundo y el principio de la humanidad."
+  },
+  {
+    "id": 2,
+    "game": 1,
+    "question": "¿Qué libro sigue inmediatamente después de Génesis?",
+    "answers": ["Levítico", "Números", "Éxodo"],
+    "correctAnswer": 2,
+    "passage": "Éxodo 1:1",
+    "citation": "Éxodo 1:1: \"Estos son los nombres de los hijos de Israel que entraron en Egipto con Jacob; cada uno con su familia.\"",
+    "hint": "Este libro narra la liberación de los israelitas de la esclavitud en Egipto."
+  },
+  {
+    "id": 3,
+    "game": 1,
+    "question": "¿Cuál es el último libro del Antiguo Testamento?",
+    "answers": ["Zacarías", "Malaquías", "Miqueas"],
+    "correctAnswer": 1,
+    "passage": "Malaquías 4:5",
+    "citation": "Malaquías 4:5: \"He aquí, yo os envío el profeta Elías, antes que venga el día de Jehová, grande y terrible.\"",
+    "hint": "Este libro se centra en la advertencia de Dios a Israel antes del regreso de Elías."
+  },
+  {
+    "id": 4,
+    "game": 1,
+    "question": "¿Cuál libro contiene la historia de la creación?",
+    "answers": ["Levítico", "Salmos", "Génesis"],
+    "correctAnswer": 2,
+    "passage": "Génesis 1:1",
+    "citation": "Génesis 1:1: \"En el principio creó Dios los cielos y la tierra.\"",
+    "hint": "Es el primer libro de la Biblia y habla sobre el principio del mundo y la humanidad."
+  },
+  {
+    "id": 5,
+    "game": 1,
+    "question": "¿Qué libro de la Biblia habla de las historias de los jueces de Israel?",
+    "answers": ["Jueces", "Reyes", "Samuel"],
+    "correctAnswer": 0,
+    "passage": "Jueces 1:1",
+    "citation": "Jueces 1:1: \"Aconteció después de la muerte de Josué, que los hijos de Israel consultaron a Jehová, diciendo: ¿Quién subirá primero contra los cananeos para pelear contra ellos?\"",
+    "hint": "Este libro describe el periodo en que Israel fue gobernado por jueces antes de tener reyes."
+  },
+  {
+    "id": 6,
+    "game": 1,
+    "question": "¿Cuál libro de la Biblia contiene el cántico de Salomón?",
+    "answers": ["Proverbios", "Cantar de los Cantares", "Eclesiastés"],
+    "correctAnswer": 1,
+    "passage": "Cantar de los Cantares 1:1",
+    "citation": "Cantar de los Cantares 1:1: \"Cantar de los Cantares, el cual es de Salomón.\"",
+    "hint": "Este libro es conocido por sus expresiones poéticas de amor."
+  },
+  {
+    "id": 7,
+    "game": 1,
+    "question": "¿En qué libro se encuentra la famosa frase: ‘El Señor es mi pastor, nada me faltará’?",
+    "answers": ["Salmos", "Isaías", "Proverbios"],
+    "correctAnswer": 0,
+    "passage": "Salmos 23:1",
+    "citation": "Salmos 23:1: \"Jehová es mi pastor; nada me faltará.\"",
+    "hint": "Este libro es una colección de himnos y oraciones en la Biblia."
+  },
+  {
+    "id": 8,
+    "game": 1,
+    "question": "¿Qué libro de la Biblia describe las aventuras de Ester?",
+    "answers": ["Rut", "Ester", "1 Samuel"],
+    "correctAnswer": 1,
+    "passage": "Ester 1:1",
+    "citation": "Ester 1:1: \"Aconteció en los días de Asuero, que reinaba desde la India hasta Etiopía, sobre ciento veintisiete provincias.\"",
+    "hint": "Este libro relata cómo una joven judía se convierte en reina y salva a su pueblo."
+  },
+  {
+    "id": 9,
+    "game": 1,
+    "question": "¿En qué libro de la Biblia se encuentran las palabras: ‘El amor es sufrido, es benigno’?",
+    "answers": ["1 Corintios", "Romanos", "Gálatas"],
+    "correctAnswer": 0,
+    "passage": "1 Corintios 13:4",
+    "citation": "1 Corintios 13:4: \"El amor es sufrido, es benigno; el amor no tiene envidia, el amor no es jactancioso, no se envanece.\"",
+    "hint": "Este libro trata sobre el amor verdadero, expuesto por Pablo."
+  },
+  {
+    "id": 10,
+    "game": 1,
+    "question": "¿En qué libro encontramos el versículo: ‘A cada uno le es dada la manifestación del Espíritu para lo que es provechoso’?",
+    "answers": ["Hechos", "Romanos", "1 Corintios"],
+    "correctAnswer": 2,
+    "passage": "1 Corintios 12:7",
+    "citation": "1 Corintios 12:7: \"Pero a cada uno le es dada la manifestación del Espíritu para provecho.\"",
+    "hint": "Este libro explica los dones espirituales y cómo deben usarse en la iglesia."
+  },
+  {
+    "id": 11,
+    "game": 1,
+    "question": "¿En qué libro se encuentran las palabras: ‘El Señor es mi luz y mi salvación, ¿de quién temeré?’",
+    "answers": ["Salmos", "Isaías", "Mateo"],
+    "correctAnswer": 0,
+    "passage": "Salmos 27:1",
+    "citation": "Salmos 27:1: \"Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme?\"",
+    "hint": "Este libro es conocido por sus oraciones y alabanzas."
+  },
+  {
+    "id": 12,
+    "game": 1,
+    "question": "¿Qué libro relata la historia de la construcción del Templo de Salomón?",
+    "answers": ["1 Reyes", "2 Crónicas", "Nehemías"],
+    "correctAnswer": 1,
+    "passage": "2 Crónicas 3:1",
+    "citation": "2 Crónicas 3:1: \"Entonces Salomón comenzó a edificar la casa de Jehová en Jerusalén, en el monte Moriah, donde Jehová apareció a su padre David.\"",
+    "hint": "Este libro narra el reinado de Salomón y la construcción del templo."
+  },
+  {
+    "id": 13,
+    "game": 1,
+    "question": "¿Cuál libro contiene el relato de la vida de Moisés?",
+    "answers": ["Éxodo", "Deuteronomio", "Levítico"],
+    "correctAnswer": 0,
+    "passage": "Éxodo 2:10",
+    "citation": "Éxodo 2:10: \"Y cuando el niño creció, ella lo trajo a la hija de Faraón, la cual lo tomó por hijo, y le puso por nombre Moisés.\"",
+    "hint": "Este libro describe el nacimiento y la liberación de los israelitas."
+  },
+  {
+    "id": 14,
+    "game": 1,
+    "question": "¿Qué libro tiene como tema principal el arrepentimiento y la restauración de Israel?",
+    "answers": ["Amós", "Oseas", "Joel"],
+    "correctAnswer": 2,
+    "passage": "Joel 2:12",
+    "citation": "Joel 2:12: \"Por tanto, ahora, dice Jehová, convertíos a mí de todo vuestro corazón, con ayuno, llanto y lamento.\"",
+    "hint": "Este libro se centra en el arrepentimiento y la promesa de restauración."
+  },
+  {
+    "id": 15,
+    "game": 1,
+    "question": "¿Qué libro de la Biblia contiene las visiones del profeta Ezequiel?",
+    "answers": ["Ezequiel", "Daniel", "Isaías"],
+    "correctAnswer": 0,
+    "passage": "Ezequiel 1:1",
+    "citation": "Ezequiel 1:1: \"Aconteció en el año trigésimo, en el cuarto mes, a los cinco días del mes, estando yo en medio de los cautivos junto al río Quebar, que se abrieron los cielos y vi visiones de Dios.\"",
+    "hint": "Este libro es conocido por las visiones proféticas de Ezequiel sobre la restauración de Israel."
+  },
+  {
+    "id": 16,
+    "game": 1,
+    "question": "¿Qué libro de la Biblia trata sobre la sabiduría y las enseñanzas de Salomón?",
+    "answers": ["Eclesiastés", "Proverbios", "Cantar de los Cantares"],
+    "correctAnswer": 1,
+    "passage": "Proverbios 1:1",
+    "citation": "Proverbios 1:1: \"Los proverbios de Salomón, hijo de David, rey de Israel; para conocer sabiduría y disciplina, para entender los dichos de inteligencia.\"",
+    "hint": "Este libro está lleno de sabias enseñanzas y consejos prácticos."
+  },
+  {
+    "id": 17,
+    "game": 1,
+    "question": "¿Qué libro de la Biblia tiene una historia sobre un hombre que escapó de un pez gigante?",
+    "answers": ["Nahúm", "Jonás", "Amós"],
+    "correctAnswer": 1,
+    "passage": "Jonás 1:17",
+    "citation": "Jonás 1:17: \"Y Jehová tenía preparado un gran pez que tragase a Jonás; y estuvo Jonás en el vientre del pez tres días y tres noches.\"",
+    "hint": "Este libro relata la historia de Jonás y su misión a la ciudad de Nínive."
+  },
+  {
+    "id": 18,
+    "game": 1,
+    "question": "¿Qué libro describe la historia de los apóstoles en el Nuevo Testamento?",
+    "answers": ["Hechos", "Romanos", "Gálatas"],
+    "correctAnswer": 0,
+    "passage": "Hechos 1:1",
+    "citation": "Hechos 1:1: \"En el primer tratado, oh Teófilo, hablé acerca de todas las cosas que Jesús comenzó a hacer y a enseñar,\"",
+    "hint": "Este libro narra los primeros años de la iglesia cristiana y las obras de los apóstoles."
+  },
+  {
+    "id": 19,
+    "game": 1,
+    "question": "¿Qué libro de la Biblia relata la historia del regreso de los exiliados a Jerusalén?",
+    "answers": ["Esdras", "Nehemías", "Zacarías"],
+    "correctAnswer": 1,
+    "passage": "Nehemías 1:3",
+    "citation": "Nehemías 1:3: \"Y me dijeron: El remanente que quedó de la cautividad allá en la provincia está en gran mal y afrenta; y el muro de Jerusalén derribado, y sus puertas quemadas a fuego.\"",
+    "hint": "Este libro cuenta la reconstrucción de los muros de Jerusalén después del exilio."
+  },
+  {
+    "id": 20,
+    "game": 1,
+    "question": "¿En qué libro encontramos la historia de la torre de Babel?",
+    "answers": ["Génesis", "Éxodo", "Levítico"],
+    "correctAnswer": 0,
+    "passage": "Génesis 11:4",
+    "citation": "Génesis 11:4: \"Y dijeron: Vamos, edifiquemos una ciudad y una torre cuya cúspide llegue al cielo, y hagámonos un nombre, por si fuéremos esparcidos sobre la faz de toda la tierra.\"",
+    "hint": "Este libro habla de la dispersión de los hombres debido a la torre que quisieron construir."
+  }
+]

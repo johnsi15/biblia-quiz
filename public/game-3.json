@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "game": 3,
+    "question": "El Señor es mi pastor, nada me faltará.",
+    "answers": ["Salmo 23:1", "Isaías 40:11", "Juan 10:10"],
+    "correctAnswer": 0,
+    "passage": "Salmo 23:1",
+    "citation": "Salmo 23:1: \"Jehová es mi pastor; nada me faltará.\"",
+    "hint": "Es un salmo conocido que expresa confianza en Dios como guía y protector."
+  },
+  {
+    "id": 2,
+    "game": 3,
+    "question": "Jesucristo dijo: 'Yo soy el camino, la verdad y la vida'.",
+    "answers": ["Juan 14:6", "Juan 3:16", "Mateo 5:14"],
+    "correctAnswer": 0,
+    "passage": "Juan 14:6",
+    "citation": "Juan 14:6: \"Jesús le dijo: Yo soy el camino, la verdad y la vida; nadie viene al Padre sino por mí.\"",
+    "hint": "Estas palabras las dijo Jesús a sus discípulos en el contexto de su despedida."
+  },
+  {
+    "id": 3,
+    "game": 3,
+    "question": "El que habita al abrigo del Altísimo morará bajo la sombra del Omnipotente.",
+    "answers": ["Salmo 91:1", "Isaías 25:4", "Mateo 11:28"],
+    "correctAnswer": 0,
+    "passage": "Salmo 91:1",
+    "citation": "Salmo 91:1: \"El que habita al abrigo del Altísimo morará bajo la sombra del Omnipotente.\"",
+    "hint": "Este versículo describe la seguridad y protección que Dios ofrece."
+  },
+  {
+    "id": 4,
+    "game": 3,
+    "question": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito...",
+    "answers": ["Juan 3:16", "Lucas 2:11", "Mateo 1:21"],
+    "correctAnswer": 0,
+    "passage": "Juan 3:16",
+    "citation": "Juan 3:16: \"Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.\"",
+    "hint": "Es uno de los versículos más conocidos sobre el amor de Dios por la humanidad."
+  },
+  {
+    "id": 5,
+    "game": 3,
+    "question": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien...",
+    "answers": ["Romanos 8:28", "Filipenses 4:13", "Salmo 28:7"],
+    "correctAnswer": 0,
+    "passage": "Romanos 8:28",
+    "citation": "Romanos 8:28: \"Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien...\"",
+    "hint": "Este versículo da esperanza y confianza en los planes de Dios para sus hijos."
+  },
+  {
+    "id": 6,
+    "game": 3,
+    "question": "En el principio creó Dios los cielos y la tierra.",
+    "answers": ["Génesis 1:1", "Éxodo 20:11", "Isaías 45:18"],
+    "correctAnswer": 0,
+    "passage": "Génesis 1:1",
+    "citation": "Génesis 1:1: \"En el principio creó Dios los cielos y la tierra.\"",
+    "hint": "Es el primer versículo de la Biblia y describe el acto de la creación del mundo."
+  },
+  {
+    "id": 7,
+    "game": 3,
+    "question": "Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad...",
+    "answers": ["Gálatas 5:22-23", "1 Corintios 13:13", "Romanos 12:9"],
+    "correctAnswer": 0,
+    "passage": "Gálatas 5:22-23",
+    "citation": "Gálatas 5:22-23: \"Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza...\"",
+    "hint": "Este versículo describe las características que se desarrollan en los creyentes a través del Espíritu Santo."
+  },
+  {
+    "id": 8,
+    "game": 3,
+    "question": "Todo lo puedo en Cristo que me fortalece.",
+    "answers": ["Filipenses 4:13", "Romanos 8:31", "Hebreos 13:6"],
+    "correctAnswer": 0,
+    "passage": "Filipenses 4:13",
+    "citation": "Filipenses 4:13: \"Todo lo puedo en Cristo que me fortalece.\"",
+    "hint": "Este versículo habla de la fuerza que Cristo da a los creyentes para enfrentar cualquier situación."
+  },
+  {
+    "id": 9,
+    "game": 3,
+    "question": "La paz os dejo, mi paz os doy; no os la doy como el mundo la da.",
+    "answers": ["Juan 14:27", "Mateo 5:9", "Filipenses 4:7"],
+    "correctAnswer": 0,
+    "passage": "Juan 14:27",
+    "citation": "Juan 14:27: \"La paz os dejo, mi paz os doy; no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo.\"",
+    "hint": "Jesús ofreció paz verdadera a sus seguidores en medio de las dificultades."
+  },
+  {
+    "id": 10,
+    "game": 3,
+    "question": "No juzguéis, para que no seáis juzgados.",
+    "answers": ["Mateo 7:1", "Lucas 6:37", "Juan 8:7"],
+    "correctAnswer": 0,
+    "passage": "Mateo 7:1",
+    "citation": "Mateo 7:1: \"No juzguéis, para que no seáis juzgados.\"",
+    "hint": "Este versículo es parte del Sermón del Monte, donde Jesús enseña sobre el juicio."
+  },
+  {
+    "id": 11,
+    "game": 3,
+    "question": "Y acontecerá que en los postreros días, dice Dios, derramaré de mi Espíritu sobre toda carne...",
+    "answers": ["Hechos 2:17", "Joel 2:28", "Isaías 44:3"],
+    "correctAnswer": 0,
+    "passage": "Hechos 2:17",
+    "citation": "Hechos 2:17: \"Y acontecerá que en los postreros días, dice Dios, derramaré de mi Espíritu sobre toda carne...\"",
+    "hint": "Este versículo se cumplió el día de Pentecostés cuando el Espíritu Santo descendió sobre los apóstoles."
+  },
+  {
+    "id": 12,
+    "game": 3,
+    "question": "No te dejaré ni te desampararé.",
+    "answers": ["Hebreos 13:5", "Deuteronomio 31:6", "Josué 1:5"],
+    "correctAnswer": 0,
+    "passage": "Hebreos 13:5",
+    "citation": "Hebreos 13:5: \"No te dejaré ni te desampararé.\"",
+    "hint": "Es una promesa de Dios de estar siempre con su pueblo, nunca abandonarlos."
+  },
+  {
+    "id": 13,
+    "game": 3,
+    "question": "Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados.",
+    "answers": ["Mateo 5:6", "Lucas 6:21", "Salmo 37:9"],
+    "correctAnswer": 0,
+    "passage": "Mateo 5:6",
+    "citation": "Mateo 5:6: \"Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados.\"",
+    "hint": "Este versículo es parte de las Bienaventuranzas, pronunciadas por Jesús en el Sermón del Monte."
+  },
+  {
+    "id": 14,
+    "game": 3,
+    "question": "Y el verbo se hizo carne, y habitó entre nosotros.",
+    "answers": ["Juan 1:14", "Lucas 1:35", "Mateo 1:23"],
+    "correctAnswer": 0,
+    "passage": "Juan 1:14",
+    "citation": "Juan 1:14: \"Y el verbo se hizo carne, y habitó entre nosotros...\"",
+    "hint": "Este versículo habla sobre la encarnación de Jesucristo como el Verbo hecho carne."
+  },
+  {
+    "id": 15,
+    "game": 3,
+    "question": "Y les dijo: Id por todo el mundo y predicad el evangelio a toda criatura.",
+    "answers": ["Marcos 16:15", "Mateo 28:19", "Hechos 1:8"],
+    "correctAnswer": 0,
+    "passage": "Marcos 16:15",
+    "citation": "Marcos 16:15: \"Y les dijo: Id por todo el mundo y predicad el evangelio a toda criatura.\"",
+    "hint": "Estas palabras fueron dichas por Jesús a sus discípulos antes de su ascensión."
+  },
+  {
+    "id": 16,
+    "game": 3,
+    "question": "La ley del Señor es perfecta, que convierte el alma.",
+    "answers": ["Salmo 19:7", "Isaías 1:16", "Romanos 7:12"],
+    "correctAnswer": 0,
+    "passage": "Salmo 19:7",
+    "citation": "Salmo 19:7: \"La ley de Jehová es perfecta, que convierte el alma...\"",
+    "hint": "Este versículo expresa la perfección y poder de la ley de Dios."
+  },
+  {
+    "id": 17,
+    "game": 3,
+    "question": "Bendito el varón que confía en Jehová, y cuya confianza es Jehová.",
+    "answers": ["Jeremías 17:7", "Salmo 34:8", "Isaías 40:31"],
+    "correctAnswer": 0,
+    "passage": "Jeremías 17:7",
+    "citation": "Jeremías 17:7: \"Bendito el varón que confía en Jehová, y cuya confianza es Jehová.\"",
+    "hint": "Este versículo habla sobre la bendición de confiar plenamente en Dios."
+  },
+  {
+    "id": 18,
+    "game": 3,
+    "question": "Jehová es mi luz y mi salvación; ¿de quién temeré?",
+    "answers": ["Salmo 27:1", "Isaías 12:2", "2 Samuel 22:29"],
+    "correctAnswer": 0,
+    "passage": "Salmo 27:1",
+    "citation": "Salmo 27:1: \"Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme?\"",
+    "hint": "Este versículo expresa confianza en Dios como protector y salvador."
+  },
+  {
+    "id": 19,
+    "game": 3,
+    "question": "Y serán todos enseñados por Dios.",
+    "answers": ["Isaías 54:13", "Juan 6:45", "Hebreos 8:11"],
+    "correctAnswer": 1,
+    "passage": "Juan 6:45",
+    "citation": "Juan 6:45: \"Escrito está en los profetas: Y serán todos enseñados por Dios...\"",
+    "hint": "Este versículo hace referencia a la enseñanza directa de Dios a su pueblo."
+  },
+  {
+    "id": 20,
+    "game": 3,
+    "question": "No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento.",
+    "answers": ["Romanos 12:2", "1 Pedro 1:14", "Colosenses 3:10"],
+    "correctAnswer": 0,
+    "passage": "Romanos 12:2",
+    "citation": "Romanos 12:2: \"No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento...\"",
+    "hint": "Este versículo exhorta a los creyentes a vivir de manera diferente al mundo, renovando su mente."
+  }
+]

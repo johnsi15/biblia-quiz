@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "game": 0,
+    "question": "¿Qué es? Puede encender un fuego y está llena de veneno mortal.",
+    "answers": ["La lengua"],
+    "correctAnswer": 0,
+    "passage": "Santiago 3:6",
+    "citation": "Santiago 3:6: \"Y la lengua es un fuego, un mundo de maldad; la lengua está puesta entre nuestros miembros, la cual contamina todo el cuerpo, e inflama la rueda de la creación, y ella misma es inflamada por el infierno.\"",
+    "hint": "Es una parte del cuerpo humano que tiene gran poder para causar daño."
+  },
+  {
+    "id": 2,
+    "game": 0,
+    "question": "¿Quién fue el primer hombre creado por Dios? (Escribe tu respuesta)",
+    "answers": ["Adán"],
+    "correctAnswer": 0,
+    "passage": "Génesis 2:7",
+    "citation": "Génesis 2:7: \"Entonces Jehová Dios formó al hombre del polvo de la tierra, y sopló en su nariz aliento de vida; y fue el hombre un ser viviente.\"",
+    "hint": "Este hombre vivió en el jardín del Edén."
+  },
+  {
+    "id": 3,
+    "game": 0,
+    "question": "¿Qué hizo Moisés con el Mar Rojo?",
+    "answers": ["Lo partió en dos con su vara"],
+    "correctAnswer": 1,
+    "passage": "Éxodo 14:21-22",
+    "citation": "Éxodo 14:21-22: \"Entonces Moisés extendió su mano sobre el mar, y Jehová hizo retirar al mar con un fuerte viento oriental, que sopló toda aquella noche, y volvió el mar en seco, y las aguas quedaron divididas. Y los hijos de Israel entraron por en medio del mar en seco, y las aguas les fueron como murallas a su derecha y a su izquierda.\"",
+    "hint": "Fue un acto milagroso para liberar a los israelitas de los egipcios."
+  },
+  {
+    "id": 4,
+    "game": 0,
+    "question": "¿De qué árbol Dios prohibió comer a Adán y Eva?",
+    "answers": ["El árbol del conocimiento del bien y del mal"],
+    "correctAnswer": 0,
+    "passage": "Génesis 2:16-17",
+    "citation": "Génesis 2:16-17: \"Y mandó Jehová Dios al hombre, diciendo: De todo árbol del huerto podrás comer; mas del árbol de la ciencia del bien y del mal no comerás de él, porque el día que de él comieres, morirás.\"",
+    "hint": "Este árbol se encuentra en el Edén y su fruto les fue prohibido."
+  },
+  {
+    "id": 5,
+    "game": 0,
+    "question": "¿Qué significa el nombre de Emanuel?",
+    "answers": ["Dios con nosotros"],
+    "correctAnswer": 0,
+    "passage": "Mateo 1:23",
+    "citation": "Mateo 1:23: \"He aquí, una virgen concebirá, y dará a luz un hijo, y llamarán su nombre Emanuel, que traducido es: Dios con nosotros.\"",
+    "hint": "Este nombre es asociado con el nacimiento de Jesús."
+  },
+  {
+    "id": 6,
+    "game": 0,
+    "question": "¿Quién construyó el arca de Noé? (Escribe tu respuesta)",
+    "answers": ["Noé"],
+    "correctAnswer": 0,
+    "passage": "Génesis 6:14",
+    "citation": "Génesis 6:14: \"Hazte un arca de madera de gofer; la harás con compartimientos, y la calafatearás con brea por dentro y por fuera.\"",
+    "hint": "Este hombre obedeció las instrucciones de Dios para salvar a su familia y los animales."
+  },
+  {
+    "id": 7,
+    "game": 0,
+    "question": "¿Qué hizo Jesús cuando vio que la gente estaba hambrienta?",
+    "answers": ["Multiplicó los panes y los peces"],
+    "correctAnswer": 0,
+    "passage": "Juan 6:9-13",
+    "citation": "Juan 6:9-13: \"Aquí está un muchacho que tiene cinco panes de cebada y dos peces; mas ¿qué es esto para tantos? Entonces Jesús dijo: Haced que la gente se siente. Y había en aquel lugar mucha hierba...\"",
+    "hint": "Este milagro se realizó con pocos alimentos."
+  },
+  {
+    "id": 8,
+    "game": 0,
+    "question": "¿Quién traicionó a Jesús por 30 piezas de plata?",
+    "answers": ["Judas"],
+    "correctAnswer": 0,
+    "passage": "Mateo 26:14-16",
+    "citation": "Mateo 26:14-16: \"Entonces uno de los doce, llamado Judas Iscariote, fue a los principales sacerdotes, y les dijo: ¿Qué queréis darme, y yo os lo entregaré? Y ellos le asignaron treinta piezas de plata.\"",
+    "hint": "Este discípulo fue el que entregó a Jesús a sus enemigos."
+  },
+  {
+    "id": 9,
+    "game": 0,
+    "question": "¿En qué ciudad nació Jesús?",
+    "answers": ["Belén"],
+    "correctAnswer": 0,
+    "passage": "Mateo 2:1",
+    "citation": "Mateo 2:1: \"Cuando Jesús nació en Belén de Judea en los días del rey Herodes, vinieron del oriente a Jerusalén unos magos...\"",
+    "hint": "Esta ciudad se encuentra en Judea."
+  },
+  {
+    "id": 10,
+    "game": 0,
+    "question": "¿Cómo se llama el apóstol que negó a Jesús tres veces antes del canto del gallo?",
+    "answers": ["Pedro"],
+    "correctAnswer": 0,
+    "passage": "Mateo 26:69-75",
+    "citation": "Mateo 26:69-75: \"Pedro estaba sentado fuera, en el patio; y se le acercó una criada, diciendo: Tú también estuviste con Jesús el galileo. Pero él lo negó delante de todos, diciendo: No sé qué dices...\"",
+    "hint": "Este apóstol fue uno de los más cercanos a Jesús, pero negó conocerlo tres veces."
+  },
+  {
+    "id": 11,
+    "game": 0,
+    "question": "¿Quién fue el hermano mayor de Moisés?",
+    "answers": ["Aarón"],
+    "correctAnswer": 0,
+    "passage": "Éxodo 4:14",
+    "citation": "Éxodo 4:14: \"Entonces se encendió la ira de Jehová contra Moisés, y dijo: ¿No conoces a Aarón, tu hermano, el levita? Yo sé que él habla con elocuencia. Y he aquí, él saldrá a recibirte, y al verte se alegrará en su corazón.\"",
+    "hint": "Este hermano fue elegido como sacerdote de Israel."
+  },
+  {
+    "id": 12,
+    "game": 0,
+    "question": "¿Qué hizo Elías con los profetas de Baal en el monte Carmelo?",
+    "answers": ["Los derrotó y los mató"],
+    "correctAnswer": 0,
+    "passage": "1 Reyes 18:40",
+    "citation": "1 Reyes 18:40: \"Y Elías les dijo: Prended a los profetas de Baal; no escape ninguno de ellos. Y los prendieron, y los llevó Elías al arroyo de Cisón, y allí los degolló.\"",
+    "hint": "Este evento ocurrió después de que Elías retó a los profetas en una prueba de fuego."
+  },
+  {
+    "id": 13,
+    "game": 0,
+    "question": "¿Cómo se llama el río en el que Naaman se bañó para ser sanado de la lepra?",
+    "answers": ["El río Jordán"],
+    "correctAnswer": 0,
+    "passage": "2 Reyes 5:14",
+    "citation": "2 Reyes 5:14: \"Entonces descendió, y se zambulló siete veces en el Jordán, conforme a la palabra del varón de Dios; y su carne se volvió como la carne de un niño, y quedó limpio.\"",
+    "hint": "Este río también fue importante para el pueblo de Israel, ya que lo cruzaron en varias ocasiones."
+  },
+  {
+    "id": 14,
+    "game": 0,
+    "question": "¿Quién escribió los Salmos?",
+    "answers": ["David"],
+    "correctAnswer": 0,
+    "passage": "Salmo 23:1",
+    "citation": "Salmo 23:1: \"Jehová es mi pastor; nada me faltará.\"",
+    "hint": "Este rey fue conocido por ser un hombre conforme al corazón de Dios."
+  },
+  {
+    "id": 15,
+    "game": 0,
+    "question": "¿Quién fue el primer rey de Israel?",
+    "answers": ["Saúl"],
+    "correctAnswer": 0,
+    "passage": "1 Samuel 10:1",
+    "citation": "1 Samuel 10:1: \"Tomó Samuel una hornaza de aceite, y la derramó sobre su cabeza, y le besó, y le dijo: ¿No te ha ungido Jehová por príncipe sobre su pueblo Israel?\"",
+    "hint": "Este rey fue elegido por el pueblo, pero su reinado no duró mucho debido a su desobediencia."
+  },
+  {
+    "id": 16,
+    "game": 0,
+    "question": "¿Qué libro de la Biblia cuenta la historia de la creación del mundo?",
+    "answers": ["Génesis"],
+    "correctAnswer": 0,
+    "passage": "Génesis 1:1",
+    "citation": "Génesis 1:1: \"En el principio creó Dios los cielos y la tierra.\"",
+    "hint": "Es el primer libro del Antiguo Testamento."
+  },
+  {
+    "id": 17,
+    "game": 0,
+    "question": "¿Cuántos días y noches estuvo Noé en el arca?",
+    "answers": ["40 días y 40 noches"],
+    "correctAnswer": 0,
+    "passage": "Génesis 7:12",
+    "citation": "Génesis 7:12: \"Y fue lluvia sobre la tierra cuarenta días y cuarenta noches.\"",
+    "hint": "Este período fue parte del juicio de Dios contra la maldad del mundo antiguo."
+  },
+  {
+    "id": 18,
+    "game": 0,
+    "question": "¿Qué hizo Jesús con los diez leprosos?",
+    "answers": ["Los sanó"],
+    "correctAnswer": 0,
+    "passage": "Lucas 17:14",
+    "citation": "Lucas 17:14: \"Cuando los vio, les dijo: Id, mostaos a los sacerdotes. Y aconteció que mientras iban, fueron limpiados.\"",
+    "hint": "Uno de ellos regresó agradecido a Jesús después de ser sanado."
+  },
+  {
+    "id": 19,
+    "game": 0,
+    "question": "¿Cómo se llama el discípulo que traicionó a Jesús?",
+    "answers": ["Judas Iscariote"],
+    "correctAnswer": 0,
+    "passage": "Mateo 26:14-16",
+    "citation": "Mateo 26:14-16: \"Entonces uno de los doce, llamado Judas Iscariote, fue a los principales sacerdotes, y les dijo: ¿Qué queréis darme, y yo os lo entregaré? Y ellos le asignaron treinta piezas de plata.\"",
+    "hint": "Este discípulo traicionó a Jesús por dinero."
+  },
+  {
+    "id": 20,
+    "game": 0,
+    "question": "¿Qué hizo Jesús en su primer milagro según el evangelio de Juan?",
+    "answers": ["Convirtió el agua en vino"],
+    "correctAnswer": 0,
+    "passage": "Juan 2:7-9",
+    "citation": "Juan 2:7-9: \"Jesús les dijo: Llenad estas tinajas de agua. Y las llenaron hasta arriba. Entonces les dijo: Sacad ahora, y llevadlo al maestresala. Y se lo llevaron.\"",
+    "hint": "Este milagro ocurrió en una boda en Cana."
+  }
+]
