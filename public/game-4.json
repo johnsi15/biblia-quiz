@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "game": 4,
+    "question": "«Ayúdate que yo te ayudaré». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 1,
+    "passage": "No está en la Biblia.",
+    "citation": "Es un proverbio popular y no se encuentra en las Escrituras.",
+    "hint": "Es un refrán muy conocido pero no tiene base bíblica."
+  },
+  {
+    "id": 2,
+    "game": 4,
+    "question": "«No temas, porque yo estoy contigo». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 0,
+    "passage": "Isaías 41:10",
+    "citation": "Isaías 41:10: \"No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo...\"",
+    "hint": "Un mensaje de aliento que Dios dio al pueblo de Israel."
+  },
+  {
+    "id": 3,
+    "game": 4,
+    "question": "«El que madruga, Dios lo ayuda». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 1,
+    "passage": "No está en la Biblia.",
+    "citation": "Es un refrán popular, no bíblico.",
+    "hint": "Una frase motivacional, pero no tiene base bíblica."
+  },
+  {
+    "id": 4,
+    "game": 4,
+    "question": "«El amor cubre multitud de pecados». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 0,
+    "passage": "1 Pedro 4:8",
+    "citation": "1 Pedro 4:8: \"Y ante todo, tened entre vosotros ferviente amor; porque el amor cubrirá multitud de pecados.\"",
+    "hint": "Un versículo que habla sobre el poder del amor."
+  },
+  {
+    "id": 5,
+    "game": 4,
+    "question": "«La fe mueve montañas». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 1,
+    "passage": "No está en la Biblia.",
+    "citation": "Es un dicho popular que se basa libremente en Mateo 17:20.",
+    "hint": "Una frase popular inspirada en un versículo, pero no literal."
+  },
+  {
+    "id": 6,
+    "game": 4,
+    "question": "«El Señor es mi pastor, nada me faltará». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 0,
+    "passage": "Salmo 23:1",
+    "citation": "Salmo 23:1: \"El Señor es mi pastor, nada me faltará.\"",
+    "hint": "Es parte de uno de los salmos más conocidos."
+  },
+  {
+    "id": 7,
+    "game": 4,
+    "question": "«La ociosidad es la madre de todos los vicios». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 1,
+    "passage": "No está en la Biblia.",
+    "citation": "Es un proverbio popular, no bíblico.",
+    "hint": "Un dicho que enfatiza el peligro de la pereza."
+  },
+  {
+    "id": 8,
+    "game": 4,
+    "question": "«Amarás a tu prójimo como a ti mismo». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 0,
+    "passage": "Mateo 22:39",
+    "citation": "Mateo 22:39: \"Y el segundo es semejante: Amarás a tu prójimo como a ti mismo.\"",
+    "hint": "Es parte del mandamiento más importante según Jesús."
+  },
+  {
+    "id": 9,
+    "game": 4,
+    "question": "«Dios aprieta, pero no ahorca». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 1,
+    "passage": "No está en la Biblia.",
+    "citation": "Es un refrán popular que no aparece en las Escrituras.",
+    "hint": "Es un refrán que refleja confianza, pero no tiene base bíblica."
+  },
+  {
+    "id": 10,
+    "game": 4,
+    "question": "«Lámpara es a mis pies tu palabra». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 0,
+    "passage": "Salmo 119:105",
+    "citation": "Salmo 119:105: \"Lámpara es a mis pies tu palabra, y lumbrera a mi camino.\"",
+    "hint": "Un versículo que describe la guía que da la Palabra de Dios."
+  },
+  {
+    "id": 11,
+    "game": 4,
+    "question": "«Al que madruga, Dios lo ayuda». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 1,
+    "passage": "No está en la Biblia.",
+    "citation": "Es un refrán popular que no aparece en las Escrituras.",
+    "hint": "Es un dicho común sobre la diligencia, pero no tiene base bíblica."
+  },
+  {
+    "id": 12,
+    "game": 4,
+    "question": "«El que siembra escasamente, también segará escasamente». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 0,
+    "passage": "2 Corintios 9:6",
+    "citation": "2 Corintios 9:6: \"El que siembra escasamente, también segará escasamente; y el que siembra generosamente, generosamente también segará.\"",
+    "hint": "Es un principio relacionado con la generosidad."
+  },
+  {
+    "id": 13,
+    "game": 4,
+    "question": "«El que a hierro mata, a hierro muere». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 1,
+    "passage": "No está en la Biblia.",
+    "citation": "Es un refrán popular basado libremente en Mateo 26:52, pero no textual.",
+    "hint": "Un dicho popular con un mensaje de justicia."
+  },
+  {
+    "id": 14,
+    "game": 4,
+    "question": "«Bienaventurados los que lloran, porque ellos recibirán consolación». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 0,
+    "passage": "Mateo 5:4",
+    "citation": "Mateo 5:4: \"Bienaventurados los que lloran, porque ellos recibirán consolación.\"",
+    "hint": "Es parte de las bienaventuranzas."
+  },
+  {
+    "id": 15,
+    "game": 4,
+    "question": "«El dinero es la raíz de todos los males». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 1,
+    "passage": "No está en la Biblia.",
+    "citation": "Basado en 1 Timoteo 6:10: \"Porque raíz de todos los males es el amor al dinero\", pero no es textual.",
+    "hint": "Un dicho inspirado en un versículo, pero tergiversado."
+  },
+  {
+    "id": 16,
+    "game": 4,
+    "question": "«Jehová es mi luz y mi salvación». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 0,
+    "passage": "Salmo 27:1",
+    "citation": "Salmo 27:1: \"Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme?\"",
+    "hint": "Un versículo del libro de los Salmos."
+  },
+  {
+    "id": 17,
+    "game": 4,
+    "question": "«No juzguéis, para que no seáis juzgados». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 0,
+    "passage": "Mateo 7:1",
+    "citation": "Mateo 7:1: \"No juzguéis, para que no seáis juzgados.\"",
+    "hint": "Un consejo de Jesús en el Sermón del Monte."
+  },
+  {
+    "id": 18,
+    "game": 4,
+    "question": "«Haz el bien sin mirar a quién». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 1,
+    "passage": "No está en la Biblia.",
+    "citation": "Es un proverbio popular sin base bíblica.",
+    "hint": "Un refrán muy conocido sobre hacer el bien."
+  },
+  {
+    "id": 19,
+    "game": 4,
+    "question": "«El que quiera ser el primero, sea el siervo de todos». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 0,
+    "passage": "Marcos 10:44",
+    "citation": "Marcos 10:44: \"Y el que de vosotros quiera ser el primero, será siervo de todos.\"",
+    "hint": "Un mensaje de Jesús sobre humildad y servicio."
+  },
+  {
+    "id": 20,
+    "game": 4,
+    "question": "«Dios no pone cargas que no puedas llevar». ¿De la Biblia o de otro lado?",
+    "answers": ["De la Biblia", "De otro lado"],
+    "correctAnswer": 1,
+    "passage": "No está en la Biblia.",
+    "citation": "Es un refrán popular inspirado en 1 Corintios 10:13, pero no literal.",
+    "hint": "Una frase comúnmente mal atribuida a la Biblia."
+  }
+]
