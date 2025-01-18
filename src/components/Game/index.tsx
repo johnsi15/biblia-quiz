@@ -53,8 +53,6 @@ export function Game() {
       </div>
 
       <Question data={questionData} />
-
-      {/* <Footer /> */}
     </section>
   )
 }
