@@ -30,8 +30,8 @@ export function ListGame() {
     },
   ]
   return (
-    <section>
-      <h2 className='text-4xl text-white text-center mt-16'>
+    <section className='mt-24'>
+      <h2 className='text-4xl text-white text-center'>
         Elige tu Juego <span className='text-blue-500'>Bíblico</span>
       </h2>
 
