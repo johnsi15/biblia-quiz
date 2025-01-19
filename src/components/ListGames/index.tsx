@@ -31,7 +31,7 @@ export function ListGame() {
   ]
   return (
     <section className='mt-24'>
-      <h2 className='text-4xl text-white text-center'>
+      <h2 className='font-mono text-4xl text-white text-center'>
         Elige tu Juego <span className='text-blue-500'>Bíblico</span>
       </h2>
 
@@ -39,10 +39,10 @@ export function ListGame() {
         {games.map((game, index) => (
           <li
             key={index}
-            className='border border-[#111C2D] bg-[#0B1422] rounded-2xl p-5 break-inside-avoid max-w-[385px] min-h-28 box-border flex flex-col justify-between'
+            className='border border-[#111C2D] bg-[#0B1422] rounded-2xl p-5 break-inside-avoid max-w-[320px] min-h-28 box-border flex flex-col justify-between'
           >
-            <h2 className='text-2xl text-blue-500 mb-3'>{game.title}</h2>
-            <p className='text-white font-light mb-6'>{game.description}</p>
+            <h2 className='font-mono text-2xl text-blue-500 mb-3'>{game.title}</h2>
+            <p className='text-white font-light mb-6 prose'>{game.description}</p>
             <a
               href=''
               className=' py-2.5 px-4 justify-center rounded-[10px] font-bold border flex items-center gap-x-2.5 leading-none hover:scale-105 transition-transform duration-300 shadow-button bg-brand-blue text-white border-brand-blue mt-3 max-w-max'

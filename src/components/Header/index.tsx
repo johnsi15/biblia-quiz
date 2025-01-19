@@ -7,7 +7,7 @@ export function Header() {
       style={{ boxShadow: 'rgb(59 130 246 / 60%) 0px 0px 8px' }}
     >
       <div className='max-w-[1200px] mx-auto flex justify-between items-center'>
-        <Link href='/' className='text-xl'>
+        <Link href='/' className='text-xl font-mono'>
           Biblia Quiz
         </Link>
         <nav>
