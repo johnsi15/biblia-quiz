@@ -16,9 +16,12 @@
 
 body {
   color: var(--background);
-  /* background: var(--background); */
-  background: rgb(45, 84, 94);
-  background: radial-gradient(circle, rgba(45, 84, 94, 1) 0%, rgba(18, 52, 59, 1) 100%);
+  /* background: var(--foreground); */
+  /* background: #000000; */
+  /* background: rgb(45, 84, 94);
+  background: radial-gradient(circle, rgba(45, 84, 94, 1) 0%, rgba(18, 52, 59, 1) 100%); */
+  background: rgb(16, 16, 16);
+  background: linear-gradient(0deg, rgba(16, 16, 16, 1) 0%, rgba(0, 0, 0, 1) 25%);
 }
 
 @keyframes move-twink-back {
